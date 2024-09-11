@@ -13,7 +13,12 @@ You can click the Preview link to take a look at your changes.
 <div>
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertod-adams&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-   srcset="https://github-readme-stats.vercel.app/api?username=robertod-adams&show_icons=true&theme=dark"
+    <source
+    srcset="https://github-readme-stats.vercel.app/api?username=robertod-adams&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: orange)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=robertod-adams&show_icons=true" />
+</picture>
 </div>
  
 <picture>
