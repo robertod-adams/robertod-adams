@@ -26,7 +26,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<div>
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the- badge&logo=whatsapp&logoColor=white
-</div>
-
