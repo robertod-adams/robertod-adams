@@ -25,4 +25,20 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+<div>
 
+<a href="https://www.youtube.com/channel/UC_-uuuZbYBAAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style-for-the- badge&logo-youtube&logoColor-white" target="_blank"></a>
+
+<a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-X23E4405F7style-for-the-badgeålogo-instagramšlogoColor-white"
+
+target="blank"></a> <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF7style-for-the-badgeålogo-twitch&logoColor-white" target="blank"></a>
+
+<a href="https://discord.gg/G9GPg55A75" target="_blank"><img src="https://img.shields.io/badge/Discord-72890A?style-for-the-badge&logo-discordalogoColor-white" target="_blank">
+
+</a>
+
+<a href="mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-123333/style-for-the-badge&logo-gmail&logoColor-white" target="_blank"></a> <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-$23007785/style-for-the- badge&logo-linkedin&logoColor-white" target="_blank"></a>
+
+! [Snake animation](https://github.com/rafaballerini/robertod-adams/blob/output/github-contribution-grid-snake.svg) 
+
+</div>
