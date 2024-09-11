@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robertod-adams
+- 👋 Hi, I’m robertod-adams
 - 👀 I'm interested in entering this broad technology market that there are countless areas to work in, which is why I've been dedicating myself to this spectacular front-end area.
 - 🌱 I'm currently learning the three tools: front, html, css and javascript, and my goal is to learn the react and angular frameworks, to be a differentiator in my role.
 - 💞️ I'm looking to collaborate in the area of ​​technology, which is an excellent way to contribute to innovation and development of new solutions, ideas on how I can improve in this sector, is to contribute to open source projects, which are software that anyone can use, modify and improve .
@@ -12,12 +12,12 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=@robertod-adams&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=robertod-adams&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=@robertod-adams&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=robertod-adams&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=@robertod-adams&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robertod-adams&show_icons=true" />
 </picture>
