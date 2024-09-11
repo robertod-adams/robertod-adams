@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   
 </div>
 
-<div 
+<div>
   style="display: inline_block"><br>
 
 <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-
-
-
+<div>
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the- badge&logo=whatsapp&logoColor=white
+</div>
 
